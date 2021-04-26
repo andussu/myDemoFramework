@@ -1,2 +1,2 @@
 # myDemoFramework
-Personal Hybrid framework that hosts UI, DB and API testing structures, condensed built for demo purposes
+Personal Hybrid framework that hosts UI, DB and API testing structures, purposely condensed built for demo shows
